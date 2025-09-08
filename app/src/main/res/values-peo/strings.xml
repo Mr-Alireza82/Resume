@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- SampleProject transliterated -->
+    <string name="app_name">𐎱𐎠𐎴𐎹𐎠𐎶𐏐𐎫𐎿𐎫𐎹</string>
+
+    <!-- Home ~ "King's place" -->
+    <string name="title_home">𐎧𐎠𐎴𐏃𐎹𐎭𐎠</string>
+
+    <!-- Acquire ~ "to obtain" -->
+    <string name="title_acquire">𐎭𐎠𐎴𐎹𐎠𐎶𐏐𐎠𐎹𐎠</string>
+
+    <!-- Other Settings ~ "other arrangements" -->
+    <string name="title_other_settings">𐎠𐎭𐎼𐎹 𐎿𐎠𐎭𐎼𐎰𐎠𐎶𐏐𐎫𐎠𐎶𐎹</string>
+
+    <!-- Support ~ "help" -->
+    <string name="title_support">𐎱𐏁𐎫𐎹𐎲𐎠𐎴𐎹</string>
+
+    <!-- Connection ~ "path" -->
+    <string name="title_connection">𐎱𐎹𐎺𐏂𐎫𐎦𐎹</string>
+
+    <!-- Profile Name ~ "your name" -->
+    <string name="profile_name">𐎹𐎠𐎭𐎼𐎹 𐎴𐎠𐎼𐎹</string>
+
+    <!-- Acquire -->
+    <string name="acquire">𐎭𐎠𐎴𐎹𐎠𐎶𐏐𐎠𐎹𐎠</string>
+
+    <!-- Support -->
+    <string name="support">𐎱𐏁𐎫𐎹𐎲𐎠𐎴𐎹</string>
+
+    <!-- Info ~ "knowledge" -->
+    <string name="info">𐎴𐎠𐎭𐎠𐎹𐎼𐎠𐎴𐎹</string>
+
+    <!-- Version ~ "form" -->
+    <string name="version">𐎹𐎠𐎭𐎹𐎠𐎴𐎹</string>
+
+    <!-- Font Style ~ "writing form" -->
+    <string name="acquire_font_style">𐎹𐎠𐎭𐎹𐎠𐎴 𐎹𐎠𐎭𐎹𐎠𐎴𐎹</string>
+
+    <!-- Other Settings -->
+    <string name="acquire_other_settings">𐎠𐎭𐎼𐎹 𐎿𐎠𐎭𐎼𐎰𐎠𐎶𐏐𐎫𐎠𐎶𐎹</string>
+
+    <!-- Purchase ~ "to take" -->
+    <string name="purchase">𐎹𐎠𐎭𐎼𐎹𐎠𐎶𐏐𐎠𐎼𐎹</string>
+
+    <!-- Balance ~ "equal" -->
+    <string name="balance">𐎹𐎠𐎭𐎼𐎹𐎠𐎶𐏐𐎭𐎠𐎴𐎹</string>
+
+    <!-- Charge ~ "to load" -->
+    <string name="charge">𐎹𐎠𐎭𐎼𐎹𐎠𐎶𐏐𐎲𐎠𐎴𐎼𐎹</string>
+
+    <!-- Receipt ~ "document" -->
+    <string name="receipt">𐎴𐎠𐎭𐎠𐎹𐎴𐎠𐎶𐏐𐎭𐎠𐎷𐎼𐎹</string>
+
+    <!-- Pay with ID ~ "give with mark" -->
+    <string name="pay_with_id">𐎲𐎠𐎴𐎠𐎭𐎹 𐎹𐎠𐎭𐎼𐎹𐎠𐎶𐏐𐎭𐎠𐎮𐎠𐎴𐎹</string>
+
+    <!-- Other -->
+    <string name="other">𐎠𐎭𐎼𐎹</string>
+
+    <!-- Acquire Number ~ "to obtain number" -->
+    <string name="acquire_number">𐎭𐎠𐎴𐎹𐎠𐎶𐏐𐎠𐎹𐎠 𐎴𐎠𐎼𐎹</string>
+
+    <!-- Card count per line -->
+    <string name="other_settings_input_label">𐎲𐎠𐎼𐎹𐎠𐎶𐏐𐎧𐎠𐎴𐎹𐎠𐎶 𐎲𐎠𐎼𐎹𐎠𐎶𐏐𐎭𐎠𐎶𐎹𐎠𐎶 𐎲𐎠𐎭𐎼𐎹𐎠𐎶</string>
+
+    <!-- Connection Settings -->
+    <string name="support_connection_settings">𐎱𐎹𐎺𐏂𐎫𐎦𐎹 𐎿𐎠𐎭𐎼𐎰𐎠𐎶𐏐𐎫𐎠𐎶𐎹</string>
+
+    <!-- Get Authorization Keys -->
+    <string name="support_get_auth_keys">𐎭𐎼𐎹𐎠𐎳𐎰𐏐𐎤𐎾𐎹𐎭𐏃𐎠𐎹𐏐𐎤𐎠𐎼</string>
+
+    <!-- Get Configuration -->
+    <string name="support_get_config">𐎭𐎼𐎹𐎠𐎳𐎰𐏐𐎭𐎠𐎭𐏃𐏐𐏃𐎠𐎱𐏀𐎹𐎼𐎴𐎭𐏃</string>
+
+    <!-- Upload Master Key -->
+    <string name="support_upload_master_key">𐎲𐎠𐎼𐎥𐏀𐎠𐎼𐎹𐏐𐎣𐎾𐎹𐎭𐏐𐎶𐎿𐎫𐎼</string>
+
+    <!-- Reset Acquire Password -->
+    <string name="support_reset_acquire_password">𐎲𐎠𐎴𐏁𐎠𐎴𐎹𐏐𐎼𐎶𐏀𐏐𐎱𐏀𐎹𐎼𐎴𐎭𐏃</string>
+
+    <!-- Exit -->
+    <string name="exit">𐎲𐎽𐎴𐎼𐎳𐎰</string>
+
+    <!-- Confirm -->
+    <string name="confirm">𐎨𐎹𐎠𐎼𐎹𐎭𐎠</string>
+
+    <!-- Destination IP -->
+    <string name="connection_destination_ip">𐎭𐎠𐎴𐎹𐎠𐎶𐏐𐎤𐎭𐎠𐎴𐎹𐎠𐎶 𐎠𐎹𐎠𐎴𐎹</string>
+
+    <!-- Destination Port -->
+    <string name="connection_destination_port">𐎭𐎠𐎴𐎹𐎠𐎶𐏐𐎤𐎭𐎠𐎴𐎹𐎠𐎶 𐎤𐎭𐎠𐎴𐎹𐎠𐎶 𐎦𐎠𐎭𐎴𐎹</string>
+
+    <!-- International Destination Code -->
+    <string name="connection_destination_nii">𐎠𐎹𐎠𐎴𐎹𐏁𐎴𐎠𐎶𐏐𐎭𐎠𐎴𐎹𐎠𐎶 𐎤𐎠𐎷𐏀𐎴𐎭𐎹𐎼𐎹𐎦𐎠𐎭𐎴𐎹</string>
+
+    <!-- Terminal Number -->
+    <string name="terminal_number">𐎲𐎠𐎼𐎹𐎠𐎶𐏐𐎴𐎠𐎼𐎹 𐎴𐎠𐎼𐎹: </string>
+</resources>

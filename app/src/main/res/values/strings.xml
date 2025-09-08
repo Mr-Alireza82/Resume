@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SampleProject</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_acquire">Acquire</string>
+    <string name="title_other_settings">Other Settings</string>
+    <string name="title_support">Support</string>
+    <string name="title_connection">Connection</string>
+
+    <string name="profile_name">Your name</string>
+    <string name="acquire">Acquire</string>
+    <string name="support">Support</string>
+    <string name="info">Info</string>
+    <string name="version">Version</string>
+
+    <string name="purchase">Purchase</string>
+    <string name="balance">Balance</string>
+    <string name="charge">Charge</string>
+    <string name="receipt">Receipt</string>
+    <string name="pay_with_id">Pay with ID</string>
+    <string name="other">Other</string>
+
+    <string name="support_connection_settings">Connection Settings</string>
+    <string name="support_get_auth_keys">Get Authorization Keys</string>
+    <string name="support_get_config">Get Configuration</string>
+    <string name="support_upload_master_key">Upload Master Key</string>
+    <string name="support_reset_acquire_password">Reset Acquire Password</string>
+
+    <string name="acquire_font_style">Font Style</string>
+    <string name="acquire_other_settings">Other Settings</string>
+
+    <string name="other_settings_input_label">Card count per line</string>
+
+    <string name="exit">Exit</string>
+    <string name="confirm">Confirm</string>
+
+    <string name="connection_destination_ip">Destination IP</string>
+    <string name="connection_destination_port">Destination port</string>
+    <string name="connection_destination_nii">International destination code</string>
+
+    <string name="terminal_number">Terminal Number: </string>
+    <string name="acquire_number">Acquire Number: </string>
+</resources>

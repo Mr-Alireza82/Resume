@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProgettoCampione</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_acquire">Acquisisci</string>
+    <string name="title_other_settings">Altre impostazioni</string>
+    <string name="title_support">Supporto</string>
+    <string name="title_connection">Connessione</string>
+
+    <string name="profile_name">Il tuo nome</string>
+    <string name="acquire">Acquisisci</string>
+    <string name="support">Supporto</string>
+    <string name="info">Info</string>
+    <string name="version">Versione</string>
+
+    <string name="acquire_font_style">Stile del carattere</string>
+    <string name="acquire_other_settings">Altre impostazioni</string>
+
+    <string name="purchase">Acquista</string>
+    <string name="balance">Saldo</string>
+    <string name="charge">Ricarica</string>
+    <string name="receipt">Ricevuta</string>
+    <string name="pay_with_id">Paga con ID</string>
+    <string name="other">Altro</string>
+    <string name="acquire_number">Numero acquisizione</string>
+
+    <string name="other_settings_input_label">Numero di carte per riga</string>
+
+    <string name="support_connection_settings">Impostazioni di connessione</string>
+    <string name="support_get_auth_keys">Ottieni chiavi di autorizzazione</string>
+    <string name="support_get_config">Ottieni configurazione</string>
+    <string name="support_upload_master_key">Carica chiave principale</string>
+    <string name="support_reset_acquire_password">Reimposta password acquisizione</string>
+
+    <string name="exit">Esci</string>
+    <string name="confirm">Conferma</string>
+
+    <string name="connection_destination_ip">IP di destinazione</string>
+    <string name="connection_destination_port">Porta di destinazione</string>
+    <string name="connection_destination_nii">Codice internazionale di destinazione</string>
+
+    <string name="terminal_number">Numero terminale: </string>
+</resources>

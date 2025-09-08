@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مشروع العينة</string>
+
+    <string name="title_home">الرئيسية</string>
+    <string name="title_acquire">الحصول</string>
+    <string name="title_other_settings">إعدادات أخرى</string>
+    <string name="title_support">الدعم</string>
+    <string name="title_connection">الاتصال</string>
+
+    <string name="profile_name">اسمك</string>
+    <string name="acquire">الحصول</string>
+    <string name="support">الدعم</string>
+    <string name="info">معلومات</string>
+    <string name="version">الإصدار</string>
+
+    <string name="acquire_font_style">نمط الخط</string>
+    <string name="acquire_other_settings">إعدادات أخرى</string>
+
+    <string name="purchase">شراء</string>
+    <string name="balance">الرصيد</string>
+    <string name="charge">شحن</string>
+    <string name="receipt">الإيصال</string>
+    <string name="pay_with_id">الدفع بالمعرف</string>
+    <string name="other">أخرى</string>
+    <string name="acquire_number">رقم الحصول</string>
+
+    <string name="other_settings_input_label">عدد البطاقات في كل سطر</string>
+
+    <string name="support_connection_settings">إعدادات الاتصال</string>
+    <string name="support_get_auth_keys">الحصول على مفاتيح التفويض</string>
+    <string name="support_get_config">الحصول على التكوين</string>
+    <string name="support_upload_master_key">تحميل المفتاح الرئيسي</string>
+    <string name="support_reset_acquire_password">إعادة تعيين كلمة مرور الحصول</string>
+
+    <string name="exit">خروج</string>
+    <string name="confirm">تأكيد</string>
+
+    <string name="connection_destination_ip">عنوان IP الوجهة</string>
+    <string name="connection_destination_port">منفذ الوجهة</string>
+    <string name="connection_destination_nii">رمز الوجهة الدولي</string>
+
+    <string name="terminal_number">رقم المحطة: </string>
+</resources>

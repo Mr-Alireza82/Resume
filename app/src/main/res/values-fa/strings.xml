@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">نمونه پروژه</string>
+
+    <string name="title_home">خانه</string>
+    <string name="title_acquire">دریافت</string>
+    <string name="title_other_settings">تنظیمات دیگر</string>
+    <string name="title_support">پشتیبانی</string>
+    <string name="title_connection">اتصال</string>
+
+    <string name="profile_name">نام شما</string>
+    <string name="acquire">دریافت</string>
+    <string name="support">پشتیبانی</string>
+    <string name="info">اطلاعات</string>
+    <string name="version">نسخه</string>
+
+    <string name="acquire_font_style">سبک فونت</string>
+    <string name="acquire_other_settings">تنظیمات دیگر</string>
+
+    <string name="purchase">خرید</string>
+    <string name="balance">موجودی</string>
+    <string name="charge">شارژ</string>
+    <string name="receipt">رسید</string>
+    <string name="pay_with_id">پرداخت با شناسه</string>
+    <string name="other">سایر</string>
+
+    <string name="other_settings_input_label">تعداد کارت در هر خط</string>
+
+    <string name="support_connection_settings">تنظیمات ارتباطی</string>
+    <string name="support_get_auth_keys">دریافت کلیدهای عملیاتی</string>
+    <string name="support_get_config">دریافت اطلاعات پذیرنده</string>
+    <string name="support_upload_master_key">بارگذاری کلید مستر</string>
+    <string name="support_reset_acquire_password">بازنشانی رمز پذیرنده</string>
+
+    <string name="exit">خروج</string>
+    <string name="confirm">تأیید</string>
+
+    <string name="connection_destination_ip">آی‌پی مقصد</string>
+    <string name="connection_destination_port">پورت مقصد</string>
+    <string name="connection_destination_nii">کد بین‌المللی مقصد</string>
+
+    <string name="terminal_number">شماره ترمینال: </string>
+    <string name="acquire_number">شماره پذیرنده: </string>
+</resources>
